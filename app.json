@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "HK2",
+    "description": "HK2",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/3209342667/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lbingyi/HerokuXray",
-    "repository": "https://github.com/Lbingyi/HerokuXray",
+    "website": "https://github.com/ove520/HK2",
+    "repository": "https://github.com/ove520/HK2",
     "stack": "container"
 }
